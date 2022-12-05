@@ -1,1 +1,2 @@
-my_pow(){}
+my_pow(){
+add bug_fix}
